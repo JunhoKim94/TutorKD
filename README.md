@@ -12,5 +12,5 @@ This repository is the implementation of the paper [Tutoring Helps Students Lear
 
 ### Quick start
 ```
-python main.py
+python distillation.py
 ```
