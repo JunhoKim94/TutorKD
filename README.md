@@ -4,11 +4,11 @@ This repository is about Tutor-KD long paper: [Tutoring Helps Students Learn Bet
 
 ## Overview
 ### Training
-<img src="./figures/tutor-kd.png" width="650"/>
+<img src="./figure/tutor-kd.png" width="650"/>
 
 ### Main Results
-<img src="./figures/results.PNG" width="750"/>
-<img src="./figures/results_extreme.PNG" width="750"/>
+<img src="./figure/results.PNG" width="750"/>
+<img src="./figure/results_extreme.PNG" width="750"/>
 
 ### Requirements
  - Python 3
