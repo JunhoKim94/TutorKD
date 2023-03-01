@@ -25,7 +25,6 @@ from model.minilm_v2 import Bert_For_minilm_v2, Bert_For_minilm_v2_MLM
 
 from torch.nn.parallel import DistributedDataParallel as DDP
 
-
 Datapath = {
     "cola" : "CoLA",
     "mnli" : "MNLI",
