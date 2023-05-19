@@ -17,7 +17,7 @@ This repository is about Tutor-KD long paper: [Tutoring Helps Students Learn Bet
  - pytorch
 
 ### Quick start
-Prepare the pre-training corpora(Wikipedia and Bookcorpus) in data folder. Use ```python distillation.py```.
+Prepare the pre-training corpora(Wikipedia and Bookcorpus) in data folder. Use ```python preprocess.py```.
 
  - ```--data_path```: A directory containing pre-processed examples (pickle file).
  - ```--raw_data_path```: A directory containing raw text examples.
