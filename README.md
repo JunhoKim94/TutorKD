@@ -1,6 +1,6 @@
 # TutorKD
 
-This repository is about Tutor-KD long paper: [Tutoring Helps Students Learn Better: Improving Knowledge Distillation for BERT with Tutor Network](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.498/) published in EMNLP 2022. In this project, we are interested in generating the traning samples which can mitigate the incorrect teacher predictions and repetitive learning for student.
+This repository is about Tutor-KD long paper: [Tutoring Helps Students Learn Better: Improving Knowledge Distillation for BERT with Tutor Network](https://aclanthology.org/2022.emnlp-main.498/) published in EMNLP 2022. In this project, we are interested in generating the traning samples which can mitigate the incorrect teacher predictions and repetitive learning for student.
 
 ## Overview
 ### Training
